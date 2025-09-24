@@ -2,7 +2,7 @@ server:
   port: 8081
 spring:
   application:
-    name:user-service
+    name: user-service
   datasource:
     url: jdbc:postgresql://localhost:5432/fitness_user_db
     username: postgres
